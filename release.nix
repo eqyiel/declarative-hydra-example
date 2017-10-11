@@ -11,7 +11,7 @@ let
       fpu = "vfp";
       withTLS = true;
       libc = "glibc";
-      platform = pkgs.lib.platforms.raspberrypi2;
+      platform = pkgs.platforms.raspberrypi2;
       openssl.system = "linux-generic32";
     };
   };
