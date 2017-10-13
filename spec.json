@@ -17,7 +17,7 @@
     },
     "nixpkgs": {
       "type": "git",
-      "value": "git://github.com/eqyiel/nixpkgs.git ayanami.maher.fyi",
+      "value": "git://github.com/eqyiel/nixpkgs.git aisaka.maher.fyi",
       "emailresponsible": false
     }
   }
